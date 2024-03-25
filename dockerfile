@@ -1,3 +1,3 @@
 FROM ubuntu/apache2
-ADD . /var/www/html/
+COPY . /var/www/html/
 
